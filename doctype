@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<head>
+      <h1>my first webpage</h1>
+      <h2>written with the guidance of moringa prep</h2>
+      <p>this is my first webpage</p>
+      <p>isn't it nice</p>
+      <p>here are some things am going to learn about coding</p>
+  <ul>
+    <li>html</li>
+    <li>css</li>
+    <li>java script</li>
+    <li>and alot more</li>
+  </ul>
+</body>
+</html>
